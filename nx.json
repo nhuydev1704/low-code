@@ -105,5 +105,7 @@
         "targetName": "lint"
       }
     }
-  ]
+  ],
+  "defaultBase": "master",
+  "nxCloudAccessToken": "NWYzZWU4NWQtNmZjYy00MGM5LWJjYzMtMDUyMWY1Y2IyMmJlfHJlYWQtd3JpdGU="
 }

@@ -1,3 +1,4 @@
+import React from 'react';
 import { RouterProvider } from 'react-router-dom';
 import zhCN from 'antd/locale/zh_CN';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
